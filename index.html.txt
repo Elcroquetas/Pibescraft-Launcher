@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mi Launcher de Minecraft</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🎮 Mi Launcher de Minecraft</h1>
+    <p>Juega fácil, rápido y con soporte para mods.</p>
+    <a href="descargas/mi-launcher-setup.exe" class="btn">Descargar para Windows</a>
+  </div>
+</body>
+</html>
